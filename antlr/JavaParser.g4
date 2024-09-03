@@ -39,7 +39,7 @@ options {
 }
 
 compilationUnit
-    : packageDeclaration? (importDeclaration | ';')* (typeDeclarationWithJavaDoc | ';')*
+    : javadoc? packageDeclaration? (importDeclaration | ';')* (typeDeclarationWithJavaDoc | ';')*
     | moduleDeclaration EOF
     ;
 

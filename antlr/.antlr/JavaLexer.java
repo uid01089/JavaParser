@@ -1,4 +1,4 @@
-// Generated from /home/konrad/Dokumente/Python/JavaReader/JavaParser/antlr/JavaLexer.g4 by ANTLR 4.13.1
+// Generated from /home/konrad/Dokumente/Python/JavaDocumenter.git/JavaParser/antlr/JavaLexer.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
